@@ -1,1 +1,1 @@
-# Faang1
+This is my codeSpace, solving DS ALgo questions
