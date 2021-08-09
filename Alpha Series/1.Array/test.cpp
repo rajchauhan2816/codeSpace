@@ -1,4 +1,3 @@
-// Link - 
 #include <algorithm>
 #include <climits>
 #include <iostream>
@@ -21,10 +20,8 @@ void io() {
     freopen("output.txt", "w", stdout);
 }
 
-
-
 void run() {
-    Solution mysol;
+    cout << " Test File";
 }
 
 int32_t main() {
